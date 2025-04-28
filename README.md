@@ -2,7 +2,7 @@
 
 This project involves cleaning and preparing an e-commerce sales dataset from Amazon for further analysis and dashboard building.
 
-The raw data was downloaded from Kaggle and contains transaction information for multiple sales channels (Amazon.in, Merchant Fulfillment, etc.).
+The raw data was downloaded from Kaggle and contains transaction information.
 
 ---
 
