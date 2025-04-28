@@ -39,16 +39,17 @@ The final cleaned dataset was saved separately as `Amazon_Sale_Report_Cleaned.cs
 
 ## 📂 Repository Structure
 
-/ecommerce-sales-analysis
+/ecommerce-sales-analysis  
 │
-├── data/           # Raw and cleaned datasets
+├── data/                   # Raw and cleaned datasets
 │   ├── Amazon Sale Report.csv
 │   └── Amazon_Sale_Report_Cleaned.csv
 │
-├── notebooks/      # Python cleaning scripts
+├── notebooks/               # Python cleaning scripts
 │   └── Amazon_Sales_Data_Cleaning.ipynb
 │
-├── README.md       # Project documentation
+└── README.md                # Project documentation
+
 
 ---
 
