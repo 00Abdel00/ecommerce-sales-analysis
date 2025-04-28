@@ -69,3 +69,8 @@ The final cleaned dataset was saved separately as `Amazon_Sale_Report_Cleaned.cs
 - Data validation and consistency checking
 - Preparing datasets for business intelligence dashboards
 - Documentation and project structuring for data portfolios
+
+---
+
+### 📦 Dataset Source
+- [E-commerce Sales Dataset on Kaggle](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
