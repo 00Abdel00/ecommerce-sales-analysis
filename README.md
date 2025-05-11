@@ -72,8 +72,7 @@ We created and exported 4 Tableau dashboards based on the cleaned dataset:
 
 ## 📁 Repository Structure
 
-/ecommerce-sales-analysis
-│
+ecommerce-sales-analysis/
 ├── data/
 │ ├── Amazon Sale Report.csv
 │ ├── Amazon_Sale_Report_Cleaned.csv
@@ -88,7 +87,7 @@ We created and exported 4 Tableau dashboards based on the cleaned dataset:
 │ └── portfolio_visuals.ipynb # Cleaned visuals for portfolio
 │
 ├── visualizations/
-│ ├── pandas/ # Matplotlib graphs
+│ ├── pandas/ # Matplotlib visuals
 │ └── tableau/ # Tableau dashboard exports
 │
 └── README.md
