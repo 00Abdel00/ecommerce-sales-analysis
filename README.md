@@ -86,8 +86,8 @@ We created and exported 4 Tableau dashboards based on the cleaned dataset:
   - `portfolio_visuals.ipynb` – Cleaned visuals for portfolio
 
 - **visualizations/**
-  - **pandas/** – Matplotlib visuals (Python-generated)
-  - **tableau/** – Tableau dashboard exports (images/screenshots)
+  - **Pandas visuals/** – Matplotlib visuals (Python-generated)
+  - **Tableau dashboards/** – Tableau dashboard exports (images/screenshots)
 
 - `README.md`
 
