@@ -72,26 +72,24 @@ We created and exported 4 Tableau dashboards based on the cleaned dataset:
 
 ## 📁 Repository Structure
 
-ecommerce-sales-analysis/
-├── data/
-│ ├── Amazon Sale Report.csv
-│ ├── Amazon_Sale_Report_Cleaned.csv
-│ └── Amazon_Sale_Report_Cleaned_Cities.csv
-│
-├── docs/
-│ └── dashboards.twbx # Tableau workbook file
-│
-├── notebooks/
-│ ├── Amazon_Sales_Data_Cleaning.ipynb
-│ ├── Amazon_Sales_EDA.ipynb
-│ └── portfolio_visuals.ipynb # Cleaned visuals for portfolio
-│
-├── visualizations/
-│ ├── pandas/ # Matplotlib visuals
-│ └── tableau/ # Tableau dashboard exports
-│
-└── README.md
+- **data/**
+  - `Amazon Sale Report.csv`
+  - `Amazon_Sale_Report_Cleaned.csv`
+  - `Amazon_Sale_Report_Cleaned_Cities.csv`
 
+- **docs/**
+  - `dashboards.twbx` – Tableau workbook file
+
+- **notebooks/**
+  - `Amazon_Sales_Data_Cleaning.ipynb`
+  - `Amazon_Sales_EDA.ipynb`
+  - `portfolio_visuals.ipynb` – Cleaned visuals for portfolio
+
+- **visualizations/**
+  - **pandas/** – Matplotlib visuals (Python-generated)
+  - **tableau/** – Tableau dashboard exports (images/screenshots)
+
+- `README.md`
 
 ---
 
