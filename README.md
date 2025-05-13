@@ -93,6 +93,16 @@ We created and exported 4 Tableau dashboards based on the cleaned dataset:
 
 ---
 
+## 🔍 Final Business Insights
+
+- **Declining Sales Trend**: Both revenue and quantity show a consistent downward trend over the three-month period, indicating potential seasonality, market saturation, or operational issues.
+- **AOV Fluctuations**: The Average Order Value (AOV) varies significantly day-to-day. While the overall AOV is ~600K IDR, spikes indicate purchases of high-value items, and drops align with high-quantity, low-cost orders.
+- **High Revenue Contributors**: A small number of cities and categories account for the bulk of sales. A targeted strategy focusing on these top performers could drive growth.
+- **Cancelled Orders**: There’s a non-negligible number of cancelled orders, especially from specific cities. Understanding reasons for cancellations could improve fulfillment efficiency.
+- **Product-Type Performance**: Certain product types show consistent performance across all months — indicating product-market fit — while others fluctuate, possibly due to seasonality or supply issues.
+
+---
+
 ## 📚 Skills Practiced
 
 - Data exploration and validation (Google Sheets)
@@ -101,6 +111,20 @@ We created and exported 4 Tableau dashboards based on the cleaned dataset:
 - Data visualization (Matplotlib, Tableau)
 - Dashboard building and KPI tracking
 - Git and version control for portfolio projects
+
+---
+
+## 🧠 Learning Reflection
+
+This project allowed me to deepen my understanding of the complete data analysis workflow:
+
+- Practiced **data cleaning** using both Google Sheets and Python.
+- Learned how to **handle logical inconsistencies** between columns (like `Qty` and `Status`) and spot outliers.
+- Built my first complete **EDA** in a reproducible Jupyter Notebook and exported visuals for a portfolio.
+- Gained hands-on experience with **Tableau**, creating multiple dashboards and refining layout, design, and interactivity.
+- Strengthened my ability to **document my process** and organize my work using Git and GitHub.
+
+This experience gave me confidence in my ability to extract actionable insights from messy real-world data and present them clearly.
 
 ---
 
